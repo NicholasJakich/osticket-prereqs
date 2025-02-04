@@ -22,11 +22,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - A working computer
 - Remote Desktop app installed
 - Microsoft Azure account
-- Item 4
 
 <h2>Installation Steps</h2>
 
-1. Using Azure (create an account if needed), create a virtual machine. As a reccomendation, select Windows 10 with 4 vCPUs.
+1. Using Azure (create an account if needed), create a virtual machine. As a reccomendation, select Windows 10 with 4 vCPUs. This allows the use of a VM and installation of required software. The picture shows part of creating the VM in Azure.
 <img src="[A9276982-8A6C-4123-B87A-A72354995706_1_105_c](https://github.com/user-attachments/assets/2c0759c3-d7f0-425a-8f53-a6b6d530b4ac)" >
 
 ![image](https://github.com/user-attachments/assets/1ce8a430-56a3-41a3-a6cf-51b104a7c0e7)
@@ -53,24 +52,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![BD95EE2D-10E2-42BB-B361-96247F39875D](https://github.com/user-attachments/assets/e276c198-b520-41f4-b4a4-6ef2b0df9b83)
 
 
-5.Rename the appropriate file by the name of ost-config.php and assign permissions within the file to everyone. Intall heidiSQL through mySQL. This is a open source software or database that alows the osTicket to use a server and function while using throught the Virtual machine. The following picture shows 
+5.Rename the appropriate file by the name of ost-config.php and assign permissions within the file to everyone. Intall heidiSQL through mySQL. This is a open source software or database that alows the osTicket to use a server and function while using throught the Virtual machine. The following picture shows the osTicket website installed and working in a web browser.
 
 ![5E1C4ABB-C989-43AD-A992-0C68C5AF4582](https://github.com/user-attachments/assets/b2cf47b5-125b-48fd-8718-65f174a5aa20)
 
 
+6.After installing the correct software, you can create the neccesary accounts and passwords. This includes and admin user, URL host name setting, and Admin setting. After the info is created and saved, you can sign into the osTicket website. The picture below shows the sign in page for the site that can be used after the accounts are created, and from there osTicket can be explored and used as a ticketing system for a helpdesk or IT related field in a business.
+![516BF6FD-FC92-4B62-9C2A-9BF28DB28394](https://github.com/user-attachments/assets/c2074852-e51e-46e0-902b-f5224ce79fb7)
+
+
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt=""/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt=""/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
