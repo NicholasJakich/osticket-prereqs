@@ -27,10 +27,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 1. Using Azure (create an account if needed), create a virtual machine. As a reccomendation, select Windows 10 with 4 vCPUs.
-<img src="[A9276982-8A6C-4123-B87A-A72354995706_1_105_c](https://github.com/user-attachments/assets/2c0759c3-d7f0-425a-8f53-a6b6d530b4ac)" width=70% height=70%>
+<img src="[A9276982-8A6C-4123-B87A-A72354995706_1_105_c](https://github.com/user-attachments/assets/2c0759c3-d7f0-425a-8f53-a6b6d530b4ac)" >
+
+![image](https://github.com/user-attachments/assets/1ce8a430-56a3-41a3-a6cf-51b104a7c0e7)
 
 
+
+2. Sign into the created virtual machine and download the required osTicket files. This includes the osTicket.zip files and IIS (a web server that will be on the OS and serve up OSticket).
+
+
+![6A3B1C0C-0BC1-44C1-8A41-B3A6577563AF](https://github.com/user-attachments/assets/2d804f18-dae4-4c78-9417-baceb4f8136b)
+
+
+
+
+3.
 <p>
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
