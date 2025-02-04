@@ -47,7 +47,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-4.
+4.Install PHP Manager for IIS. From the installation files,install the Rewrite Module. Then create the directory C:\PHP. Restart the IIS and from there you can open the osTicket website form the IIS into a web browser. The following picture shows the osTicket site opened and the IIS opened on different tabs both in one Virtual operating system.
+
 
 ![BD95EE2D-10E2-42BB-B361-96247F39875D](https://github.com/user-attachments/assets/e276c198-b520-41f4-b4a4-6ef2b0df9b83)
 
