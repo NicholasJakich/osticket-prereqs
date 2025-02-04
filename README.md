@@ -53,7 +53,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![BD95EE2D-10E2-42BB-B361-96247F39875D](https://github.com/user-attachments/assets/e276c198-b520-41f4-b4a4-6ef2b0df9b83)
 
 
-5.Rename the appropriate file by the name of ost-config.php and assign permissions within the file to everyone.
+5.Rename the appropriate file by the name of ost-config.php and assign permissions within the file to everyone. Intall heidiSQL through mySQL. This is a open source software or database that alows the osTicket to use a server and function while using throught the Virtual machine. The following picture shows 
 
 ![5E1C4ABB-C989-43AD-A992-0C68C5AF4582](https://github.com/user-attachments/assets/b2cf47b5-125b-48fd-8718-65f174a5aa20)
 
